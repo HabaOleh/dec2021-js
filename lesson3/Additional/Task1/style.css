@@ -1,0 +1,10 @@
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.post-card{
+    width: 20%;
+}
+h3{
+    text-align: center;
+}

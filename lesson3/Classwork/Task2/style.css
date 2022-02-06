@@ -1,0 +1,25 @@
+.box{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.item{
+    width: 50%;
+    text-align: center;
+}
+p{
+    text-align: left;
+}
+.products{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.product-card{
+    width: 50%;
+    text-align: center;
+}
+img{
+    height: 300px;
+
+}
