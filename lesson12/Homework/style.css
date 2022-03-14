@@ -1,0 +1,16 @@
+.posts{
+    display: flex;
+    flex-wrap: wrap;
+}
+.post{
+    width: 20%;
+    text-align: center;
+}
+.comments{
+    display: flex;
+    flex-wrap: wrap;
+}
+.comment{
+    width: 20%;
+    text-align: center;
+}
